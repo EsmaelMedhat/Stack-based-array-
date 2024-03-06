@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1709756243 source:e:\cs_50\new folder\stack based array\main.cpp
+	<iostream>
+	<stack>
+
